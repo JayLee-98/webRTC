@@ -1,4 +1,5 @@
 <!-- VideoChat.vue -->
+
 <template>
     <div class="video-chat">
       <div class="room-controls" v-if="!isInRoom">
